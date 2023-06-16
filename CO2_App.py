@@ -6,7 +6,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-
 # Load Model
 model = load_model('deployment_CO2')
 
