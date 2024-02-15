@@ -39,7 +39,6 @@ def run():
     st.write(df)
 
 
-
     Vehicle_class = st.selectbox('Vehicle Class',np.sort(['COMPACT', 'SUV - SMALL', 'MID-SIZE', 'TWO-SEATER', 'MINICOMPACT',
        'SUBCOMPACT', 'FULL-SIZE', 'STATION WAGON - SMALL',
        'SUV - STANDARD', 'VAN - CARGO', 'VAN - PASSENGER',
